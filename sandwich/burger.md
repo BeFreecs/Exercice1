@@ -1,4 +1,4 @@
-- Steack
+- Steacks
 - Salades
 - Tomates
 - Cornichons
