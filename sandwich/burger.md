@@ -1,5 +1,5 @@
 - Steack
 - Salades
-- Tomate
+- Tomates
 - Cornichons
 - Fromages
