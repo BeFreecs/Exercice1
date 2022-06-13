@@ -2,4 +2,4 @@
 - Salades
 - Tomates
 - Cornichons
-- Fromages
+- Fromage
